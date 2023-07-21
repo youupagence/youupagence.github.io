@@ -1,0 +1,39 @@
+.size {
+  font-size: 34px;
+  text-align: center;
+  word-break: break-word;
+  color: #03090a
+}
+.zone {
+  margin-right: -30px;
+  font-size: 40px;
+  text-align: left;
+  font-weight: 700
+}
+.a.size {
+  padding-right: 30px;
+  max-width: 200px;
+  min-width: 200px;
+  width: 200px;
+  height: 200px;
+  min-height: 200px;
+  max-height: 200px;
+  overflow-x: auto;
+  overflow-y: auto;
+  display: block
+}
+.a {
+  font-size: 35px
+}
+.textarea {
+  text-align: center;
+  font-size: 40px
+}
+.gs {
+  text-align: right
+}
+.placement {
+  border-style: dashed;
+  border-color: #4f46e5
+}
+
